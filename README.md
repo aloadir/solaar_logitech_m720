@@ -26,14 +26,19 @@ You can see a demonstration of the gesture functionality in this [video](https:/
 
 ### Multiplatform Gesture Button Setup
 - The next three sections configure the three side buttons on the mouse to act as **Multiplatform Gesture Buttons**.
+![image](https://github.com/user-attachments/assets/c83bbc45-8608-43f0-bd45-4d05d36c6b88)
 
 ### Forward Button Configuration
 - When the **Forward** button is released, Solaar checks the direction of the mouse movement and triggers a corresponding action:
-  - **Up, Down, Left, Right** movements each trigger a different action.
-  - If no movement is detected, a **default action** is executed.
+  - **Up, Down, Left, Right** movements each trigger a different action, "Print", "Escape", Control + f, Control + l + h, respectively.
+  - If no movement is detected, a **default action** is executed. In this case, the action is press the key combo Control + f.
+![image](https://github.com/user-attachments/assets/9e31b96c-7f28-4fdb-b37d-672786f8d365)
 
 ### Back Button and Bottom Button Configuration
 - The **Back** button and the **lowest side button** are configured similarly to the Forward button, supporting gesture-based actions.
+![image](https://github.com/user-attachments/assets/fb7ed436-fd7c-42b2-a282-f1eab54e07e8)
+
+![image](https://github.com/user-attachments/assets/92832375-5324-4526-9d7f-0cfe55cbbd14)
 
 ---
 
@@ -41,12 +46,6 @@ You can see a demonstration of the gesture functionality in this [video](https:/
 
 - [Solaar Official Website](https://pwr-solaar.github.io/Solaar/)
 - [Multiplatform Gesture Button Demonstration](https://www.youtube.com/watch?v=E7YjQ01gacE)
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
