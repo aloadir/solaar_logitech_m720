@@ -23,10 +23,10 @@ You can see a demonstration of the gesture functionality in this [video](https:/
 
 ### Zoom In and Zoom Out
 - The first two rules configure the left and right tilt actions of the scroll wheel to perform **Zoom In** and **Zoom Out**, respectively.
+![image](https://github.com/user-attachments/assets/c83bbc45-8608-43f0-bd45-4d05d36c6b88)
 
 ### Multiplatform Gesture Button Setup
 - The next three sections configure the three side buttons on the mouse to act as **Multiplatform Gesture Buttons**.
-![image](https://github.com/user-attachments/assets/c83bbc45-8608-43f0-bd45-4d05d36c6b88)
 
 ### Forward Button Configuration
 - When the **Forward** button is released, Solaar checks the direction of the mouse movement and triggers a corresponding action:
